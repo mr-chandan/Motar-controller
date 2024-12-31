@@ -18,17 +18,6 @@ This project is a motor controller designed to manage and control the speed and 
 - DC motor
 - Power supply
 
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/motor-controller.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd motor-controller
-    ```
-
 ### Usage
 
 1. Connect the motor driver to the microcontroller and motor according to the wiring diagram provided in the `docs` folder.
